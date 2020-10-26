@@ -1,0 +1,23 @@
+.feature_block {
+    width: 45%;
+    margin-bottom: 15%;
+}
+.title_block {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.icon {
+    width: 25px;
+    margin-right: 10px;
+}
+.title{
+    font-size: 24px;
+    color: #555459;
+    font-weight: 700;
+}
+.block_text {
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 24px;
+}

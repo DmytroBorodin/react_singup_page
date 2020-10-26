@@ -1,0 +1,15 @@
+.mainBtn_block {
+    width: 100%;
+    margin-bottom: 30px;
+}
+.main_btn {
+    width: 130px;
+    height: 40px;
+    margin: auto;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    color: #FFF;
+    background: linear-gradient(to right, #4894ec, #677ac6);
+    border-radius: 25px;
+}

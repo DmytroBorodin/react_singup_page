@@ -3,13 +3,27 @@
     margin-bottom: 30px;
 }
 .main_btn {
-    width: 130px;
-    height: 40px;
+    width: 167px;
+    height: 49px;
     margin: auto;
     text-align: center;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 500;
     color: #FFF;
     background: linear-gradient(to right, #4894ec, #677ac6);
     border-radius: 25px;
+}
+
+@media screen and (max-width: 1199px){
+    .main_btn {
+        width: 167px;
+        height: 40px;
+        font-size: 14px;
+        border-radius: 20px;
+    }
+}
+@media screen and (max-width: 576px) {
+    .mainBtn_block {
+        margin-bottom: 25px;
+    }
 }
